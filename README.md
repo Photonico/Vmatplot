@@ -6,8 +6,11 @@ Plotting library for VASP.
 
 * Lu Niu
   * PhD student, School of Physics, USyd
-  * LukeNiu@outlook.com
+  * Github: https://github.com/Photonico
+  * Email: LukeNiu@outlook.com
 
 * Conquest Oliver
   * Postdoctoral Research Associate, School of Physics, USyd
-  * oliver.conquest@sydney.edu.au  
+  * Github: https://github.com/ocon2505
+  * Email: oliver.conquest@sydney.edu.au
+ 
