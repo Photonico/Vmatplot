@@ -1,6 +1,6 @@
 # Vmatplot
 
-Plotting library for VASP.
+Parser and plotting library for VASP.
 
 ## Author
 
