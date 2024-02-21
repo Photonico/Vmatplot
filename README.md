@@ -9,7 +9,10 @@ Parser and plotting library for VASP.
   * Github: https://github.com/Photonico
   * Email: LukeNiu@outlook.com
 
-* Conquest Oliver
+* Dr. Marco Fronzi
+ * 
+
+* Dr. Conquest Oliver
   * Postdoctoral Research Associate, School of Physics, USyd
   * Github: https://github.com/ocon2505
   * Email: oliver.conquest@sydney.edu.au
